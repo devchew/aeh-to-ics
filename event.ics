@@ -1,0 +1,751 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:UylWPfMqZUMwbqV7g7ldE
+SUMMARY:Systemy operacyjne [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221008T074500Z
+DTEND:20221008T092500Z
+DESCRIPTION:data rozpoczęcia: 08.10.2022 09:45\ndata zakończenia: 08.10.202
+	2 11:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Systemy operacyjne\
+	ngrupa zajęciowa: L2\nwykładowcy: mgr Waldemar Grabski\nrodzaj etapu: I\,Z
+	\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:CCAN1yJ5AiKS4ds2TsL6n
+SUMMARY:Technologie sieciowe [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221008T094500Z
+DTEND:20221008T112500Z
+DESCRIPTION:data rozpoczęcia: 08.10.2022 11:45\ndata zakończenia: 08.10.202
+	2 13:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Technologie sieciow
+	e\ngrupa zajęciowa: L2\nwykładowcy: dr hab.\, prof. AEH Mikołaj Aleksiejuk
+	\nrodzaj etapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2
+	\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:baGSwqKvHt1awFKyhqUgm
+SUMMARY:Bazy danych [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221008T113500Z
+DTEND:20221008T131500Z
+DESCRIPTION:data rozpoczęcia: 08.10.2022 13:35\ndata zakończenia: 08.10.202
+	2 15:15\ngodziny planowane: 2\nnazwa pełna przedmiotu: Bazy danych\ngrupa 
+	zajęciowa: W1\nwykładowcy: dr inż. Marcin Kacprowicz\nrodzaj etapu: I\,Z\,
+	PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns3: IN1\, INo2\nsala: V
+	izja 210+Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:uwMWlYFXrk1mPZ-ez2Ajt
+SUMMARY:Bazy danych [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221008T133500Z
+DTEND:20221008T151500Z
+DESCRIPTION:data rozpoczęcia: 08.10.2022 15:35\ndata zakończenia: 08.10.202
+	2 17:15\ngodziny planowane: 2\nnazwa pełna przedmiotu: Bazy danych\ngrupa 
+	zajęciowa: L2\nwykładowcy: dr inż. Marcin Kacprowicz\nrodzaj etapu: I\,Z\,
+	PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:iCKgDLVA0rLE1Z34Tbnwn
+SUMMARY:Technologie sieciowe [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221008T152500Z
+DTEND:20221008T170500Z
+DESCRIPTION:data rozpoczęcia: 08.10.2022 17:25\ndata zakończenia: 08.10.202
+	2 19:05\ngodziny planowane: 2\nnazwa pełna przedmiotu: Technologie sieciow
+	e\ngrupa zajęciowa: W1\nwykładowcy: dr hab.\, prof. AEH Mikołaj Aleksiejuk
+	\nrodzaj etapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns
+	3: IN1\, INo2\nsala: Vizja 211+Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:gSFmGko8_IeCnaSfOjn-h
+SUMMARY:Systemy operacyjne [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221009T060000Z
+DTEND:20221009T074000Z
+DESCRIPTION:data rozpoczęcia: 09.10.2022 08:00\ndata zakończenia: 09.10.202
+	2 09:40\ngodziny planowane: 2\nnazwa pełna przedmiotu: Systemy operacyjne\
+	ngrupa zajęciowa: W1\nwykładowcy: dr hab. inż. Wiktor Daszczuk\nrodzaj eta
+	pu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\ns3: IN1\nsala: Teams 
+	Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:pVp29orV2KSF47wOkPwY7
+SUMMARY:Języki i paradygmaty programowania [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221009T074500Z
+DTEND:20221009T092500Z
+DESCRIPTION:data rozpoczęcia: 09.10.2022 09:45\ndata zakończenia: 09.10.202
+	2 11:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Języki i paradygmat
+	y programowania\ngrupa zajęciowa: W1\nwykładowcy: dr Feliks Kurp\nrodzaj e
+	tapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns3: IN1\, I
+	No2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:r6rQrC27KzSbYYVSx7h2P
+SUMMARY:Języki i paradygmaty programowania [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221009T094500Z
+DTEND:20221009T122000Z
+DESCRIPTION:data rozpoczęcia: 09.10.2022 11:45\ndata zakończenia: 09.10.202
+	2 14:20\ngodziny planowane: 3\nnazwa pełna przedmiotu: Języki i paradygmat
+	y programowania\ngrupa zajęciowa: L2\nwykładowcy: dr Feliks Kurp\nrodzaj e
+	tapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Te
+	ams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:jLo4wev4N7w-c5FwcfKWP
+SUMMARY:Systemy operacyjne [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221022T074500Z
+DTEND:20221022T092500Z
+DESCRIPTION:data rozpoczęcia: 22.10.2022 09:45\ndata zakończenia: 22.10.202
+	2 11:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Systemy operacyjne\
+	ngrupa zajęciowa: L2\nwykładowcy: mgr Waldemar Grabski\nrodzaj etapu: I\,Z
+	\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:5_KNdPICGp1fvp0qxyYQF
+SUMMARY:Technologie sieciowe [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221022T094500Z
+DTEND:20221022T112500Z
+DESCRIPTION:data rozpoczęcia: 22.10.2022 11:45\ndata zakończenia: 22.10.202
+	2 13:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Technologie sieciow
+	e\ngrupa zajęciowa: L2\nwykładowcy: dr hab.\, prof. AEH Mikołaj Aleksiejuk
+	\nrodzaj etapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2
+	\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:CL0wapagILmnQF5gijpQN
+SUMMARY:Bazy danych [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221022T113500Z
+DTEND:20221022T131500Z
+DESCRIPTION:data rozpoczęcia: 22.10.2022 13:35\ndata zakończenia: 22.10.202
+	2 15:15\ngodziny planowane: 2\nnazwa pełna przedmiotu: Bazy danych\ngrupa 
+	zajęciowa: W1\nwykładowcy: dr inż. Marcin Kacprowicz\nrodzaj etapu: I\,Z\,
+	PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns3: IN1\, INo2
+END:VEVENT
+BEGIN:VEVENT
+UID:DQwgUhFlXy5fpIszmtXH3
+SUMMARY:Bazy danych [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221022T133500Z
+DTEND:20221022T151500Z
+DESCRIPTION:data rozpoczęcia: 22.10.2022 15:35\ndata zakończenia: 22.10.202
+	2 17:15\ngodziny planowane: 2\nnazwa pełna przedmiotu: Bazy danych\ngrupa 
+	zajęciowa: L2\nwykładowcy: dr inż. Marcin Kacprowicz\nrodzaj etapu: I\,Z\,
+	PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:J-a9dcXCV6a1fhrt-DElo
+SUMMARY:Technologie sieciowe [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221022T152500Z
+DTEND:20221022T170500Z
+DESCRIPTION:data rozpoczęcia: 22.10.2022 17:25\ndata zakończenia: 22.10.202
+	2 19:05\ngodziny planowane: 2\nnazwa pełna przedmiotu: Technologie sieciow
+	e\ngrupa zajęciowa: W1\nwykładowcy: dr hab.\, prof. AEH Mikołaj Aleksiejuk
+	\nrodzaj etapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns
+	3: IN1\, INo2\nsala: Vizja 211+Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:Yhl5--u26m5SSbOOJdLg7
+SUMMARY:Systemy operacyjne [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221023T060000Z
+DTEND:20221023T074000Z
+DESCRIPTION:data rozpoczęcia: 23.10.2022 08:00\ndata zakończenia: 23.10.202
+	2 09:40\ngodziny planowane: 2\nnazwa pełna przedmiotu: Systemy operacyjne\
+	ngrupa zajęciowa: W1\nwykładowcy: dr hab. inż. Wiktor Daszczuk\nrodzaj eta
+	pu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\ns3: IN1
+END:VEVENT
+BEGIN:VEVENT
+UID:2Wc-EQM3NP6Nlt5sFsFtQ
+SUMMARY:Języki i paradygmaty programowania [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221023T074500Z
+DTEND:20221023T092500Z
+DESCRIPTION:data rozpoczęcia: 23.10.2022 09:45\ndata zakończenia: 23.10.202
+	2 11:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Języki i paradygmat
+	y programowania\ngrupa zajęciowa: W1\nwykładowcy: dr Feliks Kurp\nrodzaj e
+	tapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns3: IN1\, I
+	No2
+END:VEVENT
+BEGIN:VEVENT
+UID:YNIM-Ar8mhMf7WJtlA4uS
+SUMMARY:Języki i paradygmaty programowania [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221023T123000Z
+DTEND:20221023T150500Z
+DESCRIPTION:data rozpoczęcia: 23.10.2022 14:30\ndata zakończenia: 23.10.202
+	2 17:05\ngodziny planowane: 3\nnazwa pełna przedmiotu: Języki i paradygmat
+	y programowania\ngrupa zajęciowa: L2\nwykładowcy: dr Feliks Kurp\nrodzaj e
+	tapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Te
+	ams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:zJwa4zhEt5sq6TGtqirGG
+SUMMARY:Systemy operacyjne [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221105T084500Z
+DTEND:20221105T102500Z
+DESCRIPTION:data rozpoczęcia: 05.11.2022 09:45\ndata zakończenia: 05.11.202
+	2 11:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Systemy operacyjne\
+	ngrupa zajęciowa: L2\nwykładowcy: mgr Waldemar Grabski\nrodzaj etapu: I\,Z
+	\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:dLShTstUoSpwJh0OC04Lj
+SUMMARY:Technologie sieciowe [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221105T104500Z
+DTEND:20221105T122500Z
+DESCRIPTION:data rozpoczęcia: 05.11.2022 11:45\ndata zakończenia: 05.11.202
+	2 13:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Technologie sieciow
+	e\ngrupa zajęciowa: L2\nwykładowcy: dr hab.\, prof. AEH Mikołaj Aleksiejuk
+	\nrodzaj etapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2
+	\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:UWQoq1BZ5mDewtYYMoe7T
+SUMMARY:Bazy danych [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221105T123500Z
+DTEND:20221105T141500Z
+DESCRIPTION:data rozpoczęcia: 05.11.2022 13:35\ndata zakończenia: 05.11.202
+	2 15:15\ngodziny planowane: 2\nnazwa pełna przedmiotu: Bazy danych\ngrupa 
+	zajęciowa: W1\nwykładowcy: dr inż. Marcin Kacprowicz\nrodzaj etapu: I\,Z\,
+	PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns3: IN1\, INo2
+END:VEVENT
+BEGIN:VEVENT
+UID:WYu6sM-KnIf41fIC2vJwT
+SUMMARY:Bazy danych [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221105T143500Z
+DTEND:20221105T161500Z
+DESCRIPTION:data rozpoczęcia: 05.11.2022 15:35\ndata zakończenia: 05.11.202
+	2 17:15\ngodziny planowane: 2\nnazwa pełna przedmiotu: Bazy danych\ngrupa 
+	zajęciowa: L2\nwykładowcy: dr inż. Marcin Kacprowicz\nrodzaj etapu: I\,Z\,
+	PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:y_zF7t1egh4vKL3ccYxdb
+SUMMARY:Technologie sieciowe [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221105T162500Z
+DTEND:20221105T180500Z
+DESCRIPTION:data rozpoczęcia: 05.11.2022 17:25\ndata zakończenia: 05.11.202
+	2 19:05\ngodziny planowane: 2\nnazwa pełna przedmiotu: Technologie sieciow
+	e\ngrupa zajęciowa: W1\nwykładowcy: dr hab.\, prof. AEH Mikołaj Aleksiejuk
+	\nrodzaj etapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns
+	3: IN1\, INo2\nsala: Vizja 211+Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:M8zGhNGxOsPrbVY2JXPBo
+SUMMARY:Systemy operacyjne [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221106T070000Z
+DTEND:20221106T084000Z
+DESCRIPTION:data rozpoczęcia: 06.11.2022 08:00\ndata zakończenia: 06.11.202
+	2 09:40\ngodziny planowane: 2\nnazwa pełna przedmiotu: Systemy operacyjne\
+	ngrupa zajęciowa: W1\nwykładowcy: dr hab. inż. Wiktor Daszczuk\nrodzaj eta
+	pu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\ns3: IN1
+END:VEVENT
+BEGIN:VEVENT
+UID:SGQfx8Dh9j3Y92SU2c7On
+SUMMARY:Języki i paradygmaty programowania [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221106T084500Z
+DTEND:20221106T102500Z
+DESCRIPTION:data rozpoczęcia: 06.11.2022 09:45\ndata zakończenia: 06.11.202
+	2 11:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Języki i paradygmat
+	y programowania\ngrupa zajęciowa: W1\nwykładowcy: dr Feliks Kurp\nrodzaj e
+	tapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns3: IN1\, I
+	No2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:kBuTVd5Zmbg-BEz__ppLM
+SUMMARY:Języki i paradygmaty programowania [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221106T133000Z
+DTEND:20221106T160500Z
+DESCRIPTION:data rozpoczęcia: 06.11.2022 14:30\ndata zakończenia: 06.11.202
+	2 17:05\ngodziny planowane: 3\nnazwa pełna przedmiotu: Języki i paradygmat
+	y programowania\ngrupa zajęciowa: L2\nwykładowcy: dr Feliks Kurp\nrodzaj e
+	tapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Te
+	ams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:-BdmuvpRsdgEq8v5UU4St
+SUMMARY:Systemy operacyjne [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221119T084500Z
+DTEND:20221119T102500Z
+DESCRIPTION:data rozpoczęcia: 19.11.2022 09:45\ndata zakończenia: 19.11.202
+	2 11:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Systemy operacyjne\
+	ngrupa zajęciowa: L2\nwykładowcy: mgr Waldemar Grabski\nrodzaj etapu: I\,Z
+	\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:VmFwMgJWHPj8FmqMbP3ic
+SUMMARY:Technologie sieciowe [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221119T104500Z
+DTEND:20221119T122500Z
+DESCRIPTION:data rozpoczęcia: 19.11.2022 11:45\ndata zakończenia: 19.11.202
+	2 13:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Technologie sieciow
+	e\ngrupa zajęciowa: L2\nwykładowcy: dr hab.\, prof. AEH Mikołaj Aleksiejuk
+	\nrodzaj etapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2
+	\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:9goQIfvwxWq0c5mJcOf-J
+SUMMARY:Bazy danych [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221119T123500Z
+DTEND:20221119T141500Z
+DESCRIPTION:data rozpoczęcia: 19.11.2022 13:35\ndata zakończenia: 19.11.202
+	2 15:15\ngodziny planowane: 2\nnazwa pełna przedmiotu: Bazy danych\ngrupa 
+	zajęciowa: W1\nwykładowcy: dr inż. Marcin Kacprowicz\nrodzaj etapu: I\,Z\,
+	PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns3: IN1\, INo2\nsala: V
+	izja 210+Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:i_LL4zD0cTmZfMRSm_RbM
+SUMMARY:Bazy danych [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221119T143500Z
+DTEND:20221119T161500Z
+DESCRIPTION:data rozpoczęcia: 19.11.2022 15:35\ndata zakończenia: 19.11.202
+	2 17:15\ngodziny planowane: 2\nnazwa pełna przedmiotu: Bazy danych\ngrupa 
+	zajęciowa: L2\nwykładowcy: dr inż. Marcin Kacprowicz\nrodzaj etapu: I\,Z\,
+	PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:S31_GQhnhB5qGGcdC4ZVg
+SUMMARY:Technologie sieciowe [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221119T162500Z
+DTEND:20221119T180500Z
+DESCRIPTION:data rozpoczęcia: 19.11.2022 17:25\ndata zakończenia: 19.11.202
+	2 19:05\ngodziny planowane: 2\nnazwa pełna przedmiotu: Technologie sieciow
+	e\ngrupa zajęciowa: W1\nwykładowcy: dr hab.\, prof. AEH Mikołaj Aleksiejuk
+	\nrodzaj etapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns
+	3: IN1\, INo2\nsala: Vizja 211+Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:sEHxXQxkLHvUAFb4MBgym
+SUMMARY:Systemy operacyjne [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221120T070000Z
+DTEND:20221120T084000Z
+DESCRIPTION:data rozpoczęcia: 20.11.2022 08:00\ndata zakończenia: 20.11.202
+	2 09:40\ngodziny planowane: 2\nnazwa pełna przedmiotu: Systemy operacyjne\
+	ngrupa zajęciowa: W1\nwykładowcy: dr hab. inż. Wiktor Daszczuk\nrodzaj eta
+	pu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\ns3: IN1\nsala: Teams 
+	Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:Nhvwwhqm9J1L8p-F76q0o
+SUMMARY:Języki i paradygmaty programowania [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221120T084500Z
+DTEND:20221120T102500Z
+DESCRIPTION:data rozpoczęcia: 20.11.2022 09:45\ndata zakończenia: 20.11.202
+	2 11:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Języki i paradygmat
+	y programowania\ngrupa zajęciowa: W1\nwykładowcy: dr Feliks Kurp\nrodzaj e
+	tapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns3: IN1\, I
+	No2
+END:VEVENT
+BEGIN:VEVENT
+UID:Itp9uYFHbU9OrA6B84cSP
+SUMMARY:Języki i paradygmaty programowania [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221120T104500Z
+DTEND:20221120T132000Z
+DESCRIPTION:data rozpoczęcia: 20.11.2022 11:45\ndata zakończenia: 20.11.202
+	2 14:20\ngodziny planowane: 3\nnazwa pełna przedmiotu: Języki i paradygmat
+	y programowania\ngrupa zajęciowa: L2\nwykładowcy: dr Feliks Kurp\nrodzaj e
+	tapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Te
+	ams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:ziZ20oQ-FPpX6BLwQzUxI
+SUMMARY:Systemy operacyjne [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221203T084500Z
+DTEND:20221203T102500Z
+DESCRIPTION:data rozpoczęcia: 03.12.2022 09:45\ndata zakończenia: 03.12.202
+	2 11:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Systemy operacyjne\
+	ngrupa zajęciowa: L2\nwykładowcy: mgr Waldemar Grabski\nrodzaj etapu: I\,Z
+	\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:k6l6J_7e6-BvhGiSl7GDf
+SUMMARY:Technologie sieciowe [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221203T104500Z
+DTEND:20221203T122500Z
+DESCRIPTION:data rozpoczęcia: 03.12.2022 11:45\ndata zakończenia: 03.12.202
+	2 13:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Technologie sieciow
+	e\ngrupa zajęciowa: L2\nwykładowcy: dr hab.\, prof. AEH Mikołaj Aleksiejuk
+	\nrodzaj etapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2
+	\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:4K8-rOAc1hZnbSDyICWzl
+SUMMARY:Bazy danych [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221203T123500Z
+DTEND:20221203T141500Z
+DESCRIPTION:data rozpoczęcia: 03.12.2022 13:35\ndata zakończenia: 03.12.202
+	2 15:15\ngodziny planowane: 2\nnazwa pełna przedmiotu: Bazy danych\ngrupa 
+	zajęciowa: W1\nwykładowcy: dr inż. Marcin Kacprowicz\nrodzaj etapu: I\,Z\,
+	PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns3: IN1\, INo2
+END:VEVENT
+BEGIN:VEVENT
+UID:GSlPLrSpsLe0X1fyakf1u
+SUMMARY:Bazy danych [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221203T143500Z
+DTEND:20221203T161500Z
+DESCRIPTION:data rozpoczęcia: 03.12.2022 15:35\ndata zakończenia: 03.12.202
+	2 17:15\ngodziny planowane: 2\nnazwa pełna przedmiotu: Bazy danych\ngrupa 
+	zajęciowa: L2\nwykładowcy: dr inż. Marcin Kacprowicz\nrodzaj etapu: I\,Z\,
+	PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:2JRQgSm7BB04hiPnvquF0
+SUMMARY:Technologie sieciowe [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221203T162500Z
+DTEND:20221203T180500Z
+DESCRIPTION:data rozpoczęcia: 03.12.2022 17:25\ndata zakończenia: 03.12.202
+	2 19:05\ngodziny planowane: 2\nnazwa pełna przedmiotu: Technologie sieciow
+	e\ngrupa zajęciowa: W1\nwykładowcy: dr hab.\, prof. AEH Mikołaj Aleksiejuk
+	\nrodzaj etapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns
+	3: IN1\, INo2\nsala: Vizja 211+Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:NVjX1IyyCfFvQ82rs-Tix
+SUMMARY:Systemy operacyjne [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221204T070000Z
+DTEND:20221204T084000Z
+DESCRIPTION:data rozpoczęcia: 04.12.2022 08:00\ndata zakończenia: 04.12.202
+	2 09:40\ngodziny planowane: 2\nnazwa pełna przedmiotu: Systemy operacyjne\
+	ngrupa zajęciowa: W1\nwykładowcy: dr hab. inż. Wiktor Daszczuk\nrodzaj eta
+	pu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\ns3: IN1
+END:VEVENT
+BEGIN:VEVENT
+UID:uHeXlOu_EMEryQ_DYVUE2
+SUMMARY:Języki i paradygmaty programowania [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221204T084500Z
+DTEND:20221204T102500Z
+DESCRIPTION:data rozpoczęcia: 04.12.2022 09:45\ndata zakończenia: 04.12.202
+	2 11:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Języki i paradygmat
+	y programowania\ngrupa zajęciowa: W1\nwykładowcy: dr Feliks Kurp\nrodzaj e
+	tapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns3: IN1\, I
+	No2
+END:VEVENT
+BEGIN:VEVENT
+UID:QRu3nglrAeOwfattB8y2x
+SUMMARY:Języki i paradygmaty programowania [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221204T133000Z
+DTEND:20221204T160500Z
+DESCRIPTION:data rozpoczęcia: 04.12.2022 14:30\ndata zakończenia: 04.12.202
+	2 17:05\ngodziny planowane: 3\nnazwa pełna przedmiotu: Języki i paradygmat
+	y programowania\ngrupa zajęciowa: L2\nwykładowcy: dr Feliks Kurp\nrodzaj e
+	tapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Te
+	ams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:w24g3vEWrqYpPRbFJos9L
+SUMMARY:Systemy operacyjne [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221217T084500Z
+DTEND:20221217T102500Z
+DESCRIPTION:data rozpoczęcia: 17.12.2022 09:45\ndata zakończenia: 17.12.202
+	2 11:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Systemy operacyjne\
+	ngrupa zajęciowa: L2\nwykładowcy: mgr Waldemar Grabski\nrodzaj etapu: I\,Z
+	\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:PaaRvIxJAK3loIPGduZEK
+SUMMARY:Technologie sieciowe [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221217T104500Z
+DTEND:20221217T122500Z
+DESCRIPTION:data rozpoczęcia: 17.12.2022 11:45\ndata zakończenia: 17.12.202
+	2 13:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Technologie sieciow
+	e\ngrupa zajęciowa: L2\nwykładowcy: dr hab.\, prof. AEH Mikołaj Aleksiejuk
+	\nrodzaj etapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2
+	\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:-Ucccwt2YGCs4zJzfL153
+SUMMARY:Bazy danych [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221217T123500Z
+DTEND:20221217T141500Z
+DESCRIPTION:data rozpoczęcia: 17.12.2022 13:35\ndata zakończenia: 17.12.202
+	2 15:15\ngodziny planowane: 2\nnazwa pełna przedmiotu: Bazy danych\ngrupa 
+	zajęciowa: W1\nwykładowcy: dr inż. Marcin Kacprowicz\nrodzaj etapu: I\,Z\,
+	PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns3: IN1\, INo2\nsala: V
+	izja 210+Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:t1j7qKqpPXKX5PLoN7MX2
+SUMMARY:Bazy danych [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221217T143500Z
+DTEND:20221217T161500Z
+DESCRIPTION:data rozpoczęcia: 17.12.2022 15:35\ndata zakończenia: 17.12.202
+	2 17:15\ngodziny planowane: 2\nnazwa pełna przedmiotu: Bazy danych\ngrupa 
+	zajęciowa: L2\nwykładowcy: dr inż. Marcin Kacprowicz\nrodzaj etapu: I\,Z\,
+	PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:NyTN75K-tnHJTBludYG4J
+SUMMARY:Technologie sieciowe [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221217T162500Z
+DTEND:20221217T180500Z
+DESCRIPTION:data rozpoczęcia: 17.12.2022 17:25\ndata zakończenia: 17.12.202
+	2 19:05\ngodziny planowane: 2\nnazwa pełna przedmiotu: Technologie sieciow
+	e\ngrupa zajęciowa: W1\nwykładowcy: dr hab.\, prof. AEH Mikołaj Aleksiejuk
+	\nrodzaj etapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns
+	3: IN1\, INo2\nsala: Vizja 211+Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:UUUjRfFG-dJGBQAnYfTaQ
+SUMMARY:Systemy operacyjne [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221218T070000Z
+DTEND:20221218T084000Z
+DESCRIPTION:data rozpoczęcia: 18.12.2022 08:00\ndata zakończenia: 18.12.202
+	2 09:40\ngodziny planowane: 2\nnazwa pełna przedmiotu: Systemy operacyjne\
+	ngrupa zajęciowa: W1\nwykładowcy: dr hab. inż. Wiktor Daszczuk\nrodzaj eta
+	pu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\ns3: IN1\nsala: Teams 
+	Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:s-oPr-SNYvRZq9uuLzDdh
+SUMMARY:Języki i paradygmaty programowania [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20221218T084500Z
+DTEND:20221218T102500Z
+DESCRIPTION:data rozpoczęcia: 18.12.2022 09:45\ndata zakończenia: 18.12.202
+	2 11:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Języki i paradygmat
+	y programowania\ngrupa zajęciowa: W1\nwykładowcy: dr Feliks Kurp\nrodzaj e
+	tapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns3: IN1\, I
+	No2
+END:VEVENT
+BEGIN:VEVENT
+UID:WnyRtlSmMDP51ig1F69m9
+SUMMARY:Języki i paradygmaty programowania [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20221218T104500Z
+DTEND:20221218T132000Z
+DESCRIPTION:data rozpoczęcia: 18.12.2022 11:45\ndata zakończenia: 18.12.202
+	2 14:20\ngodziny planowane: 3\nnazwa pełna przedmiotu: Języki i paradygmat
+	y programowania\ngrupa zajęciowa: L2\nwykładowcy: dr Feliks Kurp\nrodzaj e
+	tapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Te
+	ams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:Z3wF2EsExT7vPHF8Veal1
+SUMMARY:Systemy operacyjne [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20230114T084500Z
+DTEND:20230114T102500Z
+DESCRIPTION:data rozpoczęcia: 14.01.2023 09:45\ndata zakończenia: 14.01.202
+	3 11:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Systemy operacyjne\
+	ngrupa zajęciowa: L2\nwykładowcy: mgr Waldemar Grabski\nrodzaj etapu: I\,Z
+	\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:Ivjf8-pwaPsz6XMNbZLJA
+SUMMARY:Technologie sieciowe [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20230114T104500Z
+DTEND:20230114T122500Z
+DESCRIPTION:data rozpoczęcia: 14.01.2023 11:45\ndata zakończenia: 14.01.202
+	3 13:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Technologie sieciow
+	e\ngrupa zajęciowa: L2\nwykładowcy: dr hab.\, prof. AEH Mikołaj Aleksiejuk
+	\nrodzaj etapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2
+	\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:R0zLfO-DzxRQWtgF5z_rC
+SUMMARY:Bazy danych [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20230114T123500Z
+DTEND:20230114T141500Z
+DESCRIPTION:data rozpoczęcia: 14.01.2023 13:35\ndata zakończenia: 14.01.202
+	3 15:15\ngodziny planowane: 2\nnazwa pełna przedmiotu: Bazy danych\ngrupa 
+	zajęciowa: W1\nwykładowcy: dr inż. Marcin Kacprowicz\nrodzaj etapu: I\,Z\,
+	PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns3: IN1\, INo2\nsala: V
+	izja 210+Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:CqMvtZH8SR2R1m87Axv2V
+SUMMARY:Bazy danych [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20230114T143500Z
+DTEND:20230114T161500Z
+DESCRIPTION:data rozpoczęcia: 14.01.2023 15:35\ndata zakończenia: 14.01.202
+	3 17:15\ngodziny planowane: 2\nnazwa pełna przedmiotu: Bazy danych\ngrupa 
+	zajęciowa: L2\nwykładowcy: dr inż. Marcin Kacprowicz\nrodzaj etapu: I\,Z\,
+	PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:JJq3zEai9hj5YgfJfCUpZ
+SUMMARY:Technologie sieciowe [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20230114T162500Z
+DTEND:20230114T180500Z
+DESCRIPTION:data rozpoczęcia: 14.01.2023 17:25\ndata zakończenia: 14.01.202
+	3 19:05\ngodziny planowane: 2\nnazwa pełna przedmiotu: Technologie sieciow
+	e\ngrupa zajęciowa: W1\nwykładowcy: dr hab.\, prof. AEH Mikołaj Aleksiejuk
+	\nrodzaj etapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns
+	3: IN1\, INo2\nsala: Vizja 211+Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:VXqMZ910Vh7QjkK8_swVK
+SUMMARY:Systemy operacyjne [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20230115T070000Z
+DTEND:20230115T084000Z
+DESCRIPTION:data rozpoczęcia: 15.01.2023 08:00\ndata zakończenia: 15.01.202
+	3 09:40\ngodziny planowane: 2\nnazwa pełna przedmiotu: Systemy operacyjne\
+	ngrupa zajęciowa: W1\nwykładowcy: dr hab. inż. Wiktor Daszczuk\nrodzaj eta
+	pu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\ns3: IN1\nsala: Teams 
+	Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:Zy-vEjSv9uTTR5S1GbO-L
+SUMMARY:Języki i paradygmaty programowania [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20230115T084500Z
+DTEND:20230115T102500Z
+DESCRIPTION:data rozpoczęcia: 15.01.2023 09:45\ndata zakończenia: 15.01.202
+	3 11:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Języki i paradygmat
+	y programowania\ngrupa zajęciowa: W1\nwykładowcy: dr Feliks Kurp\nrodzaj e
+	tapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns3: IN1\, I
+	No2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:eZ7vYbj_fV0D2aQXLxwCM
+SUMMARY:Języki i paradygmaty programowania [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20230115T104500Z
+DTEND:20230115T132000Z
+DESCRIPTION:data rozpoczęcia: 15.01.2023 11:45\ndata zakończenia: 15.01.202
+	3 14:20\ngodziny planowane: 3\nnazwa pełna przedmiotu: Języki i paradygmat
+	y programowania\ngrupa zajęciowa: L2\nwykładowcy: dr Feliks Kurp\nrodzaj e
+	tapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Te
+	ams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:BF2-4ruKChe1-aMj7V02n
+SUMMARY:Systemy operacyjne [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20230128T084500Z
+DTEND:20230128T102500Z
+DESCRIPTION:data rozpoczęcia: 28.01.2023 09:45\ndata zakończenia: 28.01.202
+	3 11:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Systemy operacyjne\
+	ngrupa zajęciowa: L2\nwykładowcy: mgr Waldemar Grabski\nrodzaj etapu: I\,Z
+	\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:u1xB6AOQ1320SYXIgTwSZ
+SUMMARY:Technologie sieciowe [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20230128T104500Z
+DTEND:20230128T122500Z
+DESCRIPTION:data rozpoczęcia: 28.01.2023 11:45\ndata zakończenia: 28.01.202
+	3 13:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Technologie sieciow
+	e\ngrupa zajęciowa: L2\nwykładowcy: dr hab.\, prof. AEH Mikołaj Aleksiejuk
+	\nrodzaj etapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2
+	\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:GKunvfEhmnCRAqjvmY1CZ
+SUMMARY:Bazy danych [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20230128T123500Z
+DTEND:20230128T141500Z
+DESCRIPTION:data rozpoczęcia: 28.01.2023 13:35\ndata zakończenia: 28.01.202
+	3 15:15\ngodziny planowane: 2\nnazwa pełna przedmiotu: Bazy danych\ngrupa 
+	zajęciowa: W1\nwykładowcy: dr inż. Marcin Kacprowicz\nrodzaj etapu: I\,Z\,
+	PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns3: IN1\, INo2
+END:VEVENT
+BEGIN:VEVENT
+UID:GQ0NzC8rAaEDvceDl7mGI
+SUMMARY:Bazy danych [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20230128T143500Z
+DTEND:20230128T161500Z
+DESCRIPTION:data rozpoczęcia: 28.01.2023 15:35\ndata zakończenia: 28.01.202
+	3 17:15\ngodziny planowane: 2\nnazwa pełna przedmiotu: Bazy danych\ngrupa 
+	zajęciowa: L2\nwykładowcy: dr inż. Marcin Kacprowicz\nrodzaj etapu: I\,Z\,
+	PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:KoJ0kvTPhwrWHuB9Ktafr
+SUMMARY:Technologie sieciowe [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20230128T162500Z
+DTEND:20230128T180500Z
+DESCRIPTION:data rozpoczęcia: 28.01.2023 17:25\ndata zakończenia: 28.01.202
+	3 19:05\ngodziny planowane: 2\nnazwa pełna przedmiotu: Technologie sieciow
+	e\ngrupa zajęciowa: W1\nwykładowcy: dr hab.\, prof. AEH Mikołaj Aleksiejuk
+	\nrodzaj etapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns
+	3: IN1\, INo2\nsala: Vizja 211+Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:gna32AqrOl_PtDccuweN5
+SUMMARY:Systemy operacyjne [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20230129T070000Z
+DTEND:20230129T084000Z
+DESCRIPTION:data rozpoczęcia: 29.01.2023 08:00\ndata zakończenia: 29.01.202
+	3 09:40\ngodziny planowane: 2\nnazwa pełna przedmiotu: Systemy operacyjne\
+	ngrupa zajęciowa: W1\nwykładowcy: dr hab. inż. Wiktor Daszczuk\nrodzaj eta
+	pu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\ns3: IN1
+END:VEVENT
+BEGIN:VEVENT
+UID:ir-g2vA_LAcDzHMq-e2CK
+SUMMARY:Języki i paradygmaty programowania [W1]
+DTSTAMP:20221022T102200Z
+DTSTART:20230129T084500Z
+DTEND:20230129T102500Z
+DESCRIPTION:data rozpoczęcia: 29.01.2023 09:45\ndata zakończenia: 29.01.202
+	3 11:25\ngodziny planowane: 2\nnazwa pełna przedmiotu: Języki i paradygmat
+	y programowania\ngrupa zajęciowa: W1\nwykładowcy: dr Feliks Kurp\nrodzaj e
+	tapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INB1\, INBo3\ns3: IN1\, I
+	No2\nsala: Teams Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:6gAz5EvlFvpiR9vAE7Kmr
+SUMMARY:Języki i paradygmaty programowania [L2]
+DTSTAMP:20221022T102200Z
+DTSTART:20230129T133000Z
+DTEND:20230129T160500Z
+DESCRIPTION:data rozpoczęcia: 29.01.2023 14:30\ndata zakończenia: 29.01.202
+	3 17:05\ngodziny planowane: 3\nnazwa pełna przedmiotu: Języki i paradygmat
+	y programowania\ngrupa zajęciowa: L2\nwykładowcy: dr Feliks Kurp\nrodzaj e
+	tapu: I\,Z\,PL\ngrupy dziekańskie: I\,Z\,PL\ns2: INBo3\ns3: INo2\nsala: Te
+	ams Teams
+END:VEVENT
+END:VCALENDAR
