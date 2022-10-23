@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "ics": "2.40.0",
-    "node-xlsx": "0.21.0"
+    "node-xlsx": "0.21.0",
+    "pipe-ts": "0.0.9"
   }
 }
