@@ -15,7 +15,7 @@ const processFile = pipe(
     ics.createEvents
 );
 
-const { error, value } = processFile()
+const { error, value } = processFile(__dirname)
 
 if (error) {
     if (error) {
