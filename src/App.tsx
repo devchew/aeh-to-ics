@@ -25,9 +25,26 @@ export const App: FC = () => {
 
     return (
         <main>
-            <h1>Load XLS file</h1>
-            <input type="file" accept=".xls" onInput={loadFile}/>
-            <a href="#" ref={downloadRef} hidden={!downloadAvailable}>Download</a>
+            <h2>Pobierz plik kalendarza z AEH</h2>
+            <ul>
+                <li>log in: <i>mojeaeh.vizja.pl</i></li>
+                <li>"Dydaktyka" {">"} "Plan zajęć"</li>
+                <li>"wydrukuj Kalendarz"</li>
+                <li>"Drukuj XLS"</li>
+            </ul>
+            <h2>Wrzuć plik</h2>
+            <input type="file" accept=".xls" onInput={loadFile} />
+            <div hidden={!downloadAvailable}>
+                <h2>Pobierz plik kalendarza</h2>
+                <a href="#" ref={downloadRef} >Pobierz plik</a>
+
+                <h2>Wrzuć go do kalendarza outlock'a</h2>
+                <ul>
+                    <li><a href="https://outlook.office.com/calendar/addcalendar" target="_blank">https://outlook.office.com/calendar/addcalendar</a></li>
+                    <li>przekaż z pliki</li>
+                    <li>zaimportuj wygenerowany plik</li>
+                </ul>
+            </div>
         </main>
     );
 }

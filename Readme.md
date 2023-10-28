@@ -1,27 +1,19 @@
 # Aeh To ics
-en: Simple tool to convert school calendar to more readable format
-
 Narzędzie do konwertowania kalendarza planu zajęć AEH to ics
 
-## Instrukcja
+## Quickstart
 
-## Pobierz kalendarz
+Docker
+```
+docker run -d -p 8080:8080/tcp aehcalendarconverter:latest 
+```
 
-- log in: `mojeaeh.vizja.pl`
-- "Dydaktyka" > "Plan zajęć"
-- "wydrukuj Kalendarz"
-- "Drukuj XLS"
-- zapisz plik w tym samym katalogu co ten skrypt
-
-## Uruchom aplikacje
-- `npm run start`
-
-## Wrzucanie kalendarza tak, aby był widoczny w teams
-
-- musisz być zalogowany do szkolnego office
-- https://outlook.office.com/calendar/addcalendar
-- "przekaż z pliki"
-- zaimportuj wygenerowany plik
+or run from source
+```
+npm ci
+npm run build
+npm run serve
+```
 
 ## develop
 
@@ -29,7 +21,7 @@ install node 18
 
 ```
 npm ci
-npm run
+npm run start
 ```
 
 ## run prod
