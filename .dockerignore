@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+README.md
+.parcel-cache
+node_modules
+dist
+.vscode
+.idea
