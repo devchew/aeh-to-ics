@@ -34,7 +34,7 @@ or use docker
 
 ```
 docker build -t aehcalendarconverter:latest .
-docker run --rm -d -p 8080:8080/tcp aehcalendarconverter:latest 
+docker run --rm -d -p 8080:80/tcp aehcalendarconverter:latest 
 ```
 
 ## publish docker image

@@ -5,7 +5,7 @@
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html",
-    "serve": "http-server dist -p 8080"
+    "serve": "http-server dist -p 80"
   },
   "keywords": [],
   "author": "",
