@@ -40,6 +40,6 @@ docker run --rm -d -p 8080:8080/tcp aehcalendarconverter:latest
 ## publish docker image
 
 ```
-docker build -t aehcalendarconverter:latest .
+docker build -t devchew/aehcalendarconverter:latest .
 docker image push devchew/aehcalendarconverter:latest
 ```
