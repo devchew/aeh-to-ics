@@ -5,7 +5,6 @@ import { EventAttributes } from 'ics';
 import Preview from './Preview';
 
 export const App: FC = () => {
-ó
     const [downloadAvailable, setDownloadAvailable] = useState<boolean>(false);
     const downloadRef = useRef<HTMLAnchorElement>(null);
     const [events, setEvents] = useState<EventAttributes[]>([])
