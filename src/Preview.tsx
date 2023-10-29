@@ -44,12 +44,12 @@ const Preview: FunctionComponent<Props> = ({events}) => {
 
     return (
         <section className="block">
-            <section>
+            <section style={{gap: '1rem'}}>
+                <button onClick={prevDay}>{'<'}</button>
                 <h3>
-                    <button onClick={prevDay}>{'<'}</button>
                     {currentDay} {new Date(currentDay).toLocaleDateString(undefined, {weekday: 'long'})}
-                    <button onClick={nextDay}>{'>'}</button>
                 </h3>
+                <button onClick={nextDay}>{'>'}</button>
             </section>
             {!byDate[currentDay] && <section>
               <aside>
