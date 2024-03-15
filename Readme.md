@@ -1,6 +1,7 @@
 # Aeh To ics
 Narzędzie do konwertowania kalendarza planu zajęć AEH to ics
 
+https://devchew.github.io/aeh-to-ics/
 https://hub.docker.com/r/devchew/aehcalendarconverter
 
 ## Quickstart
