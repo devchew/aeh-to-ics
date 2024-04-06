@@ -23,17 +23,25 @@ export const App: FC = () => {
             .then(() => setDownloadAvailable(true))
 
     useEffect(() => {
+        if (window.location.hash.slice(1) !== '') {
+            try {
+                const calendar = JSON.parse(decodeURIComponent(atob(window.location.hash.slice(1))));
+                loadCalendar(calendar);
+                setEvents(calendar)
+                return;
+            } catch (c) {console.log(c)}
+        }
+
         const data = localStorage.getItem('calendar');
-        if (!data) {
-            return;
+        if (data) {
+            try {
+                const calendar = JSON.parse(data);
+                loadCalendar(calendar);
+                setEvents(calendar)
+                return;
+            } catch (e) {console.log(e)}
         }
-        try {
-            const events = JSON.parse(data);
-            setEvents(events);
-            loadCalendar(events);
-        } catch (e) {
-            console.log(e);
-        }
+
     }, []);
 
     const loadFile = (event: React.FormEvent<HTMLInputElement>) => {
@@ -41,8 +49,10 @@ export const App: FC = () => {
         readXLSFile(event.target.files[0])
             .then(convertParsedToCalendar)
             .then((data) => {
-                setEvents(data);
-                localStorage.setItem('calendar', JSON.stringify(data));
+                setEvents(data)
+                const stringifyData = JSON.stringify(data);
+                localStorage.setItem('calendar', stringifyData);
+                window.location.hash = btoa(encodeURIComponent(stringifyData));
                 return data;
             })
             .then(loadCalendar)
