@@ -23,14 +23,14 @@ export const App: FC = () => {
             .then(() => setDownloadAvailable(true))
 
     useEffect(() => {
-        if (window.location.hash.slice(1) !== '') {
-            try {
-                const calendar = JSON.parse(decodeURIComponent(atob(window.location.hash.slice(1))));
-                loadCalendar(calendar);
-                setEvents(calendar)
-                return;
-            } catch (c) {console.log(c)}
-        }
+        // if (window.location.hash.slice(1) !== '') {
+        //     try {
+        //         const calendar = JSON.parse(decodeURIComponent(atob(window.location.hash.slice(1))));
+        //         loadCalendar(calendar);
+        //         setEvents(calendar)
+        //         return;
+        //     } catch (c) {console.log(c)}
+        // }
 
         const data = localStorage.getItem('calendar');
         if (data) {
@@ -52,7 +52,7 @@ export const App: FC = () => {
                 setEvents(data)
                 const stringifyData = JSON.stringify(data);
                 localStorage.setItem('calendar', stringifyData);
-                window.location.hash = btoa(encodeURIComponent(stringifyData));
+                // window.location.hash = btoa(encodeURIComponent(stringifyData));
                 return data;
             })
             .then(loadCalendar)
